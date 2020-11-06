@@ -1,0 +1,5 @@
+<h2>Hello la communauté Dyma,{{ salutation }}</h2>
+<input type="text"
+ [value]="nom" 
+ (input)="nom=$event.target.value">
+<p>{{ nom }}</p>

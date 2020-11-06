@@ -1,0 +1,6 @@
+.pcacher{
+    visibility: hidden;
+}
+p.pshow{
+    visibility: visible;
+}
